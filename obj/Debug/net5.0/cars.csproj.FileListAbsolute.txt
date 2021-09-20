@@ -1,0 +1,16 @@
+C:\Users\Art Weinstein\Desktop\cars\bin\Debug\net5.0\cars.exe
+C:\Users\Art Weinstein\Desktop\cars\bin\Debug\net5.0\cars.deps.json
+C:\Users\Art Weinstein\Desktop\cars\bin\Debug\net5.0\cars.runtimeconfig.json
+C:\Users\Art Weinstein\Desktop\cars\bin\Debug\net5.0\cars.runtimeconfig.dev.json
+C:\Users\Art Weinstein\Desktop\cars\bin\Debug\net5.0\cars.dll
+C:\Users\Art Weinstein\Desktop\cars\bin\Debug\net5.0\ref\cars.dll
+C:\Users\Art Weinstein\Desktop\cars\bin\Debug\net5.0\cars.pdb
+C:\Users\Art Weinstein\Desktop\cars\obj\Debug\net5.0\cars.csprojAssemblyReference.cache
+C:\Users\Art Weinstein\Desktop\cars\obj\Debug\net5.0\cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Art Weinstein\Desktop\cars\obj\Debug\net5.0\cars.AssemblyInfoInputs.cache
+C:\Users\Art Weinstein\Desktop\cars\obj\Debug\net5.0\cars.AssemblyInfo.cs
+C:\Users\Art Weinstein\Desktop\cars\obj\Debug\net5.0\cars.csproj.CoreCompileInputs.cache
+C:\Users\Art Weinstein\Desktop\cars\obj\Debug\net5.0\cars.dll
+C:\Users\Art Weinstein\Desktop\cars\obj\Debug\net5.0\ref\cars.dll
+C:\Users\Art Weinstein\Desktop\cars\obj\Debug\net5.0\cars.pdb
+C:\Users\Art Weinstein\Desktop\cars\obj\Debug\net5.0\cars.genruntimeconfig.cache
