@@ -8,17 +8,6 @@ namespace Dealership.Models {
     public int Price { get; set; }
     public int Miles { get; set; }
 
-// public string MakeModel //public property
-// {
-//     get // a property accessor used to return the property value
-//     {
-//         return _makeModel; 
-//     }
-//     set // a property accessor used to assign a new value
-//     {
-//         _makeModel = value;
-//     }
-// }
   public Car(string makeModel, int price, int miles)
     {
         MakeModel = makeModel;
